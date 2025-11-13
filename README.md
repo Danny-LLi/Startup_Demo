@@ -18,7 +18,7 @@
 ---
 
 <div>
-  <img align="right" width="40%" src="https://github.com/user-attachments/assets/22107bae-e328-40e1-8dbc-40263b8aff83">
+  <img align="right" width="40%" src="https://github.com/user-attachments/assets/807b18cf-b686-4b95-8190-82eaebb53269">
 </div>
 
 ## 📋 Overview
