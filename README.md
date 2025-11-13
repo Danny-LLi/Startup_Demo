@@ -17,6 +17,10 @@
 
 ---
 
+<div>
+  <img align="right" width="40%" src="https://github.com/user-attachments/assets/22107bae-e328-40e1-8dbc-40263b8aff83">
+</div>
+
 ## 📋 Overview
 
 **Startup** is an intelligent service orchestration tool that automates essential privacy and backup workflows on Linux systems. With a single click, it manages VPN connections, creates encrypted backups, and monitors critical system processes—perfect for users who value privacy, automation, and peace of mind.
