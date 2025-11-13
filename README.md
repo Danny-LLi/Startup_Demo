@@ -50,7 +50,7 @@
 ## 🎬 Demo
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/f6ffc935-cde2-496f-b58e-5c5d0da3ad76"
+  <video src="https://github.com/user-attachments/assets/fab01e2c-511a-476e-9e74-adac7b81051f"
          width="600"
          controls
          poster="assets/demo-cover.jpg"
