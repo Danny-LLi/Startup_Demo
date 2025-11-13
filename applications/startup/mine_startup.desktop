@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Startup
+Exec=/usr/bin/mine/startup/startup.sh
+Icon=/home/USERNAME/.local/share/icons/automatic-startup.png
+Terminal=false
+Categories=Utility;
+StartupNotify=true
