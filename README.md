@@ -3,8 +3,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Privacy-Focused-blueviolet?style=for-the-badge" alt="Privacy"/>
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License"/>
+  <br>
+  <img src="https://img.shields.io/badge/Privacy%20Focused-blueviolet?style=for-the-badge&logo=gnupg&logoColor=white" alt="Privacy with GnuPG"/>
+  <img src="https://img.shields.io/badge/GnuPG-004F9B?style=for-the-badge&logo=gnupg&logoColor=white" alt="GnuPG Encryption"/>
+  <img src="https://img.shields.io/badge/rclone-9C0100?style=for-the-badge&logo=rclone&logoColor=white" alt="rclone Cloud Sync"/>
 </p>
 
 <p align="center">
